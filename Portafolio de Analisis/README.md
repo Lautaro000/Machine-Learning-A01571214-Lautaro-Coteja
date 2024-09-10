@@ -1,6 +1,7 @@
 ## --------------------FAVOR DE LEER--------------------
 ### Para la entrega de Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis), se requiere revisar el archivo de MR_M2_Port_Analisis_Desempeño_Del_Modelo_A01571214_Lautaro_Coteja.pdf y/o MR_M2_Port_Analisis_Desempeño_Del_Modelo_A01571214_Lautaro_Coteja.ipynb.
 ### Para la entrega de Momento de Retroalimentación: Reto Análisis del contexto y la normatividad. (Portafolio Análisis), se requiere revisar el archivo de MR_Reto_Analisis_del_Contexto_y_la_Normatividad_Portafolio_Analisis_A01571214_Lautaro_Coteja.pdf.
+### Para la entrega del ensayo de Etica y Normatividad Aplicada al Reto del Titanic de Kaggle (Portafolio Análisis), se requiere revisar el archivo de Reporte_de_Etica_y_Normatividad_en_el_Titanic_A01571214_Lautaro_Coteja.pdf.
 
 #### Cambios Implementados en MR_M2_Port_Analisis_Desempeño_Del_Modelo_A01571214_Lautaro_Coteja para la entrega de Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis):
 ##### Explicación del tipo de ajuste obtenido y comparación entre modelos:
