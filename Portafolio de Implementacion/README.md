@@ -1,4 +1,4 @@
-## FAVOR DE LEER 
+## --------------------FAVOR DE LEER--------------------
 ### Para la entrega de Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. (Portafolio Implementación), se requiere revisar el archivo de Port_Imple_WOFRAMEWORK_A01571214_Lautaro_Coteja.ipynb y/o Port_Imple_WOFRAMEWORK_A01571214_Lautaro_Coteja.pdf.
 ### Para la entrega de Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación), se requiere revisar el archivo de Port_Imple_WFRAMEWORK_A01571214_Lautaro_Coteja.pdf y/o Port_Imple_WFRAMEWORK_A01571214_Lautaro_Coteja.ipynb.
 
@@ -20,4 +20,4 @@ El cálculo de la función de costo fue corregido para utilizar **log-loss**, qu
 
 #### Cambios Implementados en Port_Imple_WFRAMEWORK_A01571214_Lautaro_Coteja para la entrega de Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación):
 ##### Especificion de que revisar:
-Se indico que no se encontro cual era el archivo a revisar, por lo que para que sea mas facil de ver cual archivo hay que revisar, se mejoro este README.md poniendo la indicacion de que archivo revisar en las primeras lineas de este README.md, ademas de ponerlas instrucciones en mayusculas para que sea todavia mas facil ver cual hay que revisar.
+Se indico que no se encontro cual era el archivo a revisar, por lo que para que sea mas facil de ver cual archivo hay que revisar, se mejoro este README.md poniendo la indicacion de que archivo revisar en las primeras lineas de este README.md, ademas de ponerlas instrucciones en mayusculas para que sea todavia mas facil ver cual hay que revisar, y finalmente flechas para aun mas facilidad.
